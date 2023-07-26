@@ -1,8 +1,10 @@
 openai
-chromadb
 langchain
 tiktoken
-urllib3==1.26.15
 PyPDF2
 PyCryptodome
-gradio
+streamlit
+htmlTemplate
+InstructorEmbedding
+sentence-transformers
+faiss-cpu
